@@ -1,0 +1,55 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    margin: 75px;;
+    font-family: 'Montserrat' sans-serif;
+    color: #ffff;
+}
+
+.container{
+    width:700px;
+    margin: auto;
+    color: #ffff;
+}
+
+.ola{ 
+    color: #0badaa;
+    letter-spacing: 2.4pt;
+}
+
+.nome{
+   margin: 10px 0px;
+    color:#293651;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.funcao{
+    margin: 10px 0px;
+    color:#293651;
+    font-size: 1em;
+    letter-spacing: 2.4pt;
+}
+
+.cargo{
+    font-family: 'Montserrat';
+    font-size: 1em;
+    color: #293651;
+    font-weight: inherit;
+}
+
+#fotoPerfil{
+    text-align: center;
+}
+
+.btn{
+    width: 25%;
+    margin: 15px 0px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #0badaa ;
+    color: #f6f8ff ;
+}
