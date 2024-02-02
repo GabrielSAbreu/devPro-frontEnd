@@ -17,15 +17,17 @@ body{
 }
 
 .ola{ 
+
     color: #0badaa;
+    font-size: 1em;
     letter-spacing: 2.4pt;
 }
 
 .nome{
-   margin: 10px 0px;
+   margin: 15px 0px;
     color:#293651;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 .funcao{
     margin: 10px 0px;
