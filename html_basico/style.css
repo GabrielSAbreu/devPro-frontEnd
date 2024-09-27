@@ -1,15 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-.parte1{
-    margin-left: 80px;
-    margin-top: 80px;
-}
-
-
-.title{
+h1{
     color: #293651;
     font-size: 48px;
     font-weight: bold;
@@ -48,4 +37,21 @@
     text-decoration: none;
     font-family: sans-serif;
     
+}
+
+.subtitle2{
+    color: #293651;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 2pt;
+    text-align: center;
+}
+
+.text{
+    color:  #76778c ;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1.2pt;
+    line-height: 32px;
+    text-align: center;
 }
